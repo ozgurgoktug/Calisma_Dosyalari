@@ -3,18 +3,22 @@
 
 [![GitHub](https://www.google.com/imgres?q=icardi%20png&imgurl=https%3A%2F%2Fwww.footyrenders.com%2Frender%2Fmauro-icardi-33.png&imgrefurl=https%3A%2F%2Fwww.footyrenders.com%2Fother-leagues%2Fsuperlig%2Fgalatasaray%2Fmauro-icardi-90%2F&docid=VMcUaYysU8ieyM&tbnid=GMc1Z_UtqppzFM&vet=12ahUKEwi9hpyxg_aOAxWGAtsEHa6yMUwQM3oECCkQAA..i&w=816&h=1301&hcb=2&ved=2ahUKEwi9hpyxg_aOAxWGAtsEHa6yMUwQM3oECCkQAA)](https://github.com/ozgurgoktug/Calisma_Dosyalari)
 
+---
 
+### CDN
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+- Font Awesome = <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-- Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨
 
-## Features
+## Comment
 
-- Import a HTML file and watch it magically convert to Markdown
+- Html <!--- Comment --->
+- CSS /* Comment */
+- Js  // Single Comment 
+- Js /* Multiple Comment */
+
 - Drag and drop images (requires your Dropbox account be linked)
 - Import and save files from GitHub, Dropbox, Google Drive and One Drive
 - Drag and drop markdown and HTML files into Dillinger
